@@ -12,6 +12,13 @@ This project is a sample of how to <strong>poll for changes</strong> with webpac
 
 #### Following Docker image has been tested as well
 - node:boron-alpine
+```
+docker-compose up -d
+```
+
+#### Test
+
+Try change the backgroud color in [index.js](/src/pages/index.js)
 
 #### Referencens:
 - https://webpack.js.org/configuration/watch/#watchoptions
