@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Next hmr test via vagrant",
   "scripts": {
-    "dev": "next -p 3100 ./src",
+    "dev": "next ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
